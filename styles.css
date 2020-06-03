@@ -1,0 +1,32 @@
+h1 {
+    color: yellow;
+    background-color: green;
+    text-align: center;
+    font-size: 50px;
+}
+body {
+    background : black ;
+
+}
+p {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+a {
+    color: white;
+    font-size: 20px;
+}
+.title {
+    text-decoration: underline;
+    text-align: left;
+    font-size: 20px;
+}
+li {
+    color: green;
+    font-size: 20px;
+}
+table {
+    color: hotpink;
+    font-size: 20px;
+}
